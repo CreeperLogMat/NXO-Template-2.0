@@ -7,5 +7,5 @@ I will comply with any parties to take this down
 
 # Download
 1. Click on `Code` and click `Download ZIP`
-2. Extract the zip
+2. Extract `NXO-Template-2.0.zip`
 3. Develop your menu!
